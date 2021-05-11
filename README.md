@@ -1,1 +1,1 @@
-# Neuro.Hi Bot - Codex Software tarafından yapılmıştır.
+# Neuro.Hi Bot - Cortex Botun 2018 yılındaki ilk hali.
