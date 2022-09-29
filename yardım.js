@@ -5,7 +5,7 @@ var prefix = ayarlar.prefix;
 
 exports.run = (client, message, params) => {
   const embedyardim = new Discord.RichEmbed()
-  .setTitle("Komutlar")
+  .setTitle("Komutlar ")
   .setDescription('')
   .setColor(0x00ffff)
 .addField("**Eğlence ve Kullanıcı Komutları:**", `!!ping = BOT'un pingini gösterir \!!pcaç = Bilgiseyar açarsınız \!!parti = Parti verirsiniz. \!!oylama = Oylama yapar \!!korkut = BOT Sizi korkutmaya çalışır \!!banned = Dene ve Gör! \!!avatarım = Avatarınınızı Gösterir. \!!herkesebendençay = Herkese Çay Alırsınız. \!!koş = Koşarsınız.\!!çayiç = Çay İçersiniz. \!!çekiç = İstediğiniz Kişiye Çekiç Atarsınız. \!!çayaşekerat = Çaya Şeker Atarsınız. \!!yumruk = Yumruk Atarsınız. \!!yaz = Bota İstediğiniz Şeyi Yazdırırsınız. \!!sunucuresmi = BOT Sunucunun Resmini Atar. \!!sunucubilgi = BOT Sunucu Hakkında Bilgi Verir. \!!kullanıcıbilgim = Sizin Hakkınızda Bilgi Verir. `)
